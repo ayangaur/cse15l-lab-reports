@@ -37,10 +37,17 @@ You are now connected to the device.
 ## Step 3: Trying Commands
 
 We can now start trying commands such as `cd`, `ls`, `pwd`, `cp`, and `cat`.
+These commands will give you various outputs. If you try to access files from stored on your local computer, you will not be able to do so.
+The above mentioned commands have the following meanings:
+- `cd`: Change Directory (The path of the new directory needs to be provided)
+- `ls`: Lists the files in current directory, the format the files are dispayed in can be changed using `ls -lat` or `ls -a`
+- `pwd`: Shows your current directory
+- `cp`: Copies the mentioned file to the mentioned directory
+- `cat`: Prints out the text in your file.
 
 <img width="768" alt="Screenshot 2023-01-11 at 3 54 18 PM" src="https://user-images.githubusercontent.com/122495485/211947809-0fde545d-565c-4f81-8811-f2c40015c80e.png">
 
-The commands should show you something similar.
+The commands should show you something similar. There are various more commands you can use, and you can start accessing and editing files on the remote server.
 
 If you are done using the server you can log out using:
 - Ctrl+D
