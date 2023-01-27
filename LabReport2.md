@@ -1,4 +1,4 @@
-# <p align="center">CSE 15L Lab Report 2</p> <p align="center">Ayan Gaur</p>
+# CSE 15L Lab Report 2 Ayan Gaur
 
 ## *Part 1 - StringServer:*
 
