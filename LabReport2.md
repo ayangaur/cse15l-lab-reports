@@ -62,6 +62,7 @@ public class ArrayTests {
 ![MT8BIQG-9jljAQevrJg6JD-C1_DqPPbkd-kteGfkENhaOvF8-MwD_BW4ssmnmQbQLp2mHUk87VvM1zyKuG08eH43zFecpNS8-9xAqlIkrN6JMsmwzgrKvsOo1m9-](https://user-images.githubusercontent.com/122495485/215024152-a42e76d0-dd1b-437a-a510-c715474e3069.png)
 
 The second test, does not have a symptom since the test passes.
+
 <img width="439" alt="Screenshot 2023-01-26 at 10 38 15 PM" src="https://user-images.githubusercontent.com/122495485/215024667-a7b21679-da42-48b6-8e7f-a5b5ec132911.png">
 
 4. Bug:
